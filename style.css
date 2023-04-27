@@ -591,7 +591,7 @@ span{
 #wheel{
     position: absolute;
     top: 60%;
-    left: 50%;
+    left: 15%;
     -webkit-transform: translateX(-50%) scale(.5);
         -ms-transform: translateX(-50%) scale(.5);
             transform: translateX(-50%) scale(.5);
